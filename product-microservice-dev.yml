@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://johan:123@cluster0.gyhh4kw.mongodb.net/productdb?retryWrites=true&w=majority
