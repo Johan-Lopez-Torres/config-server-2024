@@ -1,3 +1,7 @@
+
+prueba:
+  propiedad: "Hola mundo"
+
 spring:
   data:
     mongodb:
