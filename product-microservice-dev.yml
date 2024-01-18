@@ -1,6 +1,6 @@
 
 prueba:
-  propiedad: "Hola mundo"
+  propiedad: "Hola mundo nueva props"
 
 spring:
   data:
